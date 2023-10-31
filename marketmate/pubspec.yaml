@@ -17,3 +17,15 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/images/dairy.png
+    - assets/images/Orange.png
+    - assets/images/meat.png
+    - assets/images/veg.png
+    - assets/images/ribs.png
+    - assets/images/wings.png
+    - assets/images/goat.png
+    - assets/images/chickenleg.png
+    - assets/images/wholechicken.png
+    - assets/images/breads.png
